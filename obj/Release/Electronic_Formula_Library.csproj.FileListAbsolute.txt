@@ -1,0 +1,4 @@
+S:\Jimin_STORAGE\프로젝트\EML\EML_Calculator\Electronic_Formula_Library\bin\Release\Electronic_Formula_Library.dll
+S:\Jimin_STORAGE\프로젝트\EML\EML_Calculator\Electronic_Formula_Library\bin\Release\Electronic_Formula_Library.pdb
+S:\Jimin_STORAGE\프로젝트\EML\EML_Calculator\Electronic_Formula_Library\obj\Release\Electronic_Formula_Library.dll
+S:\Jimin_STORAGE\프로젝트\EML\EML_Calculator\Electronic_Formula_Library\obj\Release\Electronic_Formula_Library.pdb
