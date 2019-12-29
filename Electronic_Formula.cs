@@ -16,6 +16,14 @@ namespace Electronic_Formula_Library
             return S_Energy;
         }
 
+        //운동에너지 구하기
+        public double Kinetic_Velocity_Energy(double Projectile_Mass, double Velocity)
+        {
+            double Kinetic_Energy = Projectile_Mass * Math.Pow(Velocity, 2) * 0.5;
+
+            return Kinetic_Energy;
+        }
+
         //운동에너지로 속도 구하기
         public double Kinetic_Energy_Velocity(double Projectile_Mass, double Kinetic_Energy)
         {
